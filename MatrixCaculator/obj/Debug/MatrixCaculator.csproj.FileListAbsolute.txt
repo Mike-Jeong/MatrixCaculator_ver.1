@@ -1,0 +1,13 @@
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.csprojAssemblyReference.cache
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.Properties.Resources.resources
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.csproj.GenerateResource.cache
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.csproj.CoreCompileInputs.cache
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\bin\Debug\MatrixCaculator.exe.config
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\bin\Debug\MatrixCaculator.exe
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\bin\Debug\MatrixCaculator.pdb
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\bin\Debug\MathNet.Numerics.dll
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\bin\Debug\MathNet.Numerics.xml
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.Form1.resources
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.csproj.CopyComplete
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.exe
+C:\Users\alstl\Desktop\MatrixCaculator\MatrixCaculator\obj\Debug\MatrixCaculator.pdb
